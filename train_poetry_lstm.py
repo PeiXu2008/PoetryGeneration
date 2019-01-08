@@ -4,7 +4,7 @@ import numpy as np
 import collections
 
 #-----------数据处理----------------#
-poetry_file = 'poetry.txt'
+poetry_file = 'data/poetry.txt'
 
 #诗集
 poetrys = []
